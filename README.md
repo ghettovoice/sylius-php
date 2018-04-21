@@ -1,4 +1,4 @@
-# sylius-php-72
+# sylius-php
 
 > Docker container for Sylius based on php 7.2
 
